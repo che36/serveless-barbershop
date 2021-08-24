@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dio-serverless-barbershop-master/core/core.iml" filepath="$PROJECT_DIR$/dio-serverless-barbershop-master/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-serverless-barbershop-master/dio-serverless-barbershop/dio-serverless-barbershop.iml" filepath="$PROJECT_DIR$/dio-serverless-barbershop-master/dio-serverless-barbershop/dio-serverless-barbershop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-serverless-barbershop-master/dio-serverless-barbershop/dio-serverless-barbershop (1) (org.example).iml" filepath="$PROJECT_DIR$/dio-serverless-barbershop-master/dio-serverless-barbershop/dio-serverless-barbershop (1) (org.example).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/f75ab187-f447-4902-9814-fed2eeeb68cb.iml" filepath="$PROJECT_DIR$/.idea/f75ab187-f447-4902-9814-fed2eeeb68cb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-serverless-barbershop-master/dio-serverless-repository/repository.iml" filepath="$PROJECT_DIR$/dio-serverless-barbershop-master/dio-serverless-repository/repository.iml" />
+    </modules>
+  </component>
+</project>
